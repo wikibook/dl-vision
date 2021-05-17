@@ -1,11 +1,11 @@
 ## YOLO V3
 
-This implementation is based on Zihao Zhang's [implementation](https://github.com/zzh8829/yolov3-tf2). Thanks to him!
+Zihao Zhang의 [구현](https://github.com/zzh8829/yolov3-tf2)을 기반으로 구현했다. 
 
 
-### Installation
+### 설치
 
-Convert the Darknet model using the following command:
+다음 명령어를 사용해 Darknet 모델을 변환한다: 
 
     wget https://pjreddie.com/media/files/yolov3.weights -O weights/yolov3.weights
     python convert.py --weights weights/yolov3.weights --output weights/yolov3.tf
