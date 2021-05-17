@@ -11,7 +11,7 @@
 - 7.1 - [`tf.data`로 효율적인 입력 파이프라인 구성하기](./ch7_nb1_set_up_efficient_input_pipelines_with_tf_data.ipynb)
     - `tf.data` API의 최신 기능을 활용해 최적화된 입력 파이프라인을 설정해 모델을 학습시킨다. 
 - 7.2 - [TFRecord 생성 및 파싱](./ch7_nb2_generate_and_parse_tfrecords.ipynb)
-    - 전체 데이터셋을 _TFRecords_로 전환하고 이 파일은 효율적으로 파싱하는 방법을 알아본다.  
+    - 전체 데이터셋을 TFRecords로 전환하고 이 파일은 효율적으로 파싱하는 방법을 알아본다.  
 - 7.3 - [3D 모델의 이미지를 렌더링하기](./ch7_nb3_render_images_from_3d_models.ipynb)
     - 3D 데이터로부터 다양한 이미지를 생성하기 위해, _OpenGL_ 기반의 `vispy`를 사용해 3D 렌더링하는 방법을 간단히 훑어본다. 
 - 7.4 - [합성 이미지에서 분할 모델 훈련시키기](./ch7_nb4_train_segmentation_model_on_synthetic_images.ipynb)
@@ -21,9 +21,9 @@
 - 7.6 - [DANN을 적용해 합성 데이터에 분할 모델을 훈련하기](./ch7_nb6_apply_dann_to_train_segmentation_model_on_synthetic_data.ipynb)
     - *현실성과의 격차* 문제가 있는 분할 모델의 성능을 개선하기 위해 앞에서 구현한 DANN을 적용한다.  
 - 7.7 - [VAE로 이미지 생성하기](./ch7_nb7_generate_images_with_vae_models.ipynb)
-    - 첫 번째 생성 신경망으로, 숫자 이미지를 생성하는 간단한 *변분 오토인코더(Variational Auto-Encoder, VAE)*를 만든다.  
+    - 첫 번째 생성 신경망으로, 숫자 이미지를 생성하는 간단한 변분 오토인코더(Variational Auto-Encoder, VAE)를 만든다.  
 - 7.8 - [GAN으로 이미지 생성하기](./ch7_nb8_generate_images_with_gan_models.ipynb)
-    - 생성 신경망으로 유명한 *생성적 적대 신경망(Generative Adversarial Networks, GAN)*을 살펴본다.  
+    - 생성 신경망으로 유명한 생성적 적대 신경망(Generative Adversarial Networks, GAN)을 살펴본다.  
 	
 ## :page_facing_up: 추가 파일
 
