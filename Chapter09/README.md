@@ -15,7 +15,7 @@
 ## 브라우저에서 실행
 폴더: `tfjs`
 
-[yarn](https://yarnpkg.com/en/)을 설치하고 실행한다:
+[yarn](https://yarnpkg.com/en/)을 설치하고 실행한다.
 
     cd tfjs
     yarn

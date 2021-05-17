@@ -1,7 +1,5 @@
 **> 4장:**
-<a href="https://www.packtpub.com" title="Get the book!">
-    <img src="../banner_images/book_cover.png" width=200 align="right">
-</a>
+
 # 유력한 분류 모델
 
 4장은 _VGG_, _Inception_, _ResNet_ 같은 유력한 CNN 아키텍처를 다루고 일반적으로 컴퓨터 비전과 머신러닝에 기여한 바가 무엇인지 알아본다. 더 복잡한 분류 작업을 소개하면서, CNN이 다양한 데이터셋에서 얻은 지식을 어떻게 활용할 수 있는지(_전이 학습_) 설명한다. 다음 노트북에서는 이러한 유력한 모델 중 몇 가지를 자세히 구현하고, 다양한 플랫폼에서 공유하고 있는 사전에 구현되고 훈련된 모델이 어떻게 효율적으로 재사용될 수 있는지 보여준다. 

@@ -1,7 +1,5 @@
 **> 3장:**
-<a href="https://www.packtpub.com" title="Get the book!">
-    <img src="../banner_images/book_cover.png" width=200 align="right">
-</a>
+
 # 현대 신경망
 
 3장에서는 최근 몇 년간 머신러닝 분야의 연구 결과를 알아보고 ***합성곱 신경망(convolutional neural network, CNN)***을 소개한다. 다음 노트북에서 CNN의 구성 요소를 만드는 연산을 보여주고, 전통적인 신경망을 테스트해본 다음 더 견고한 모델을 훈련시키기 위한 최신 도구들을 실험해보겠다. 
