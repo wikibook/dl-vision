@@ -1,20 +1,18 @@
-**> Chapter 3:**
-<a href="https://www.packtpub.com" title="Get the book!">
-    <img src="../banner_images/book_cover.png" width=200 align="right">
-</a>
-# Modern Neural Networks
+**> 3장:**
 
-In Chapter 3, we caught up with years of research in machine learning, introducing ***convolutional neural networks (CNNs)***. In the following notebooks, we illustrate the operations forming the building blocks of CNNs, test a historical neural network, and experiment with modern tools to train more robust models.
+# 현대 신경망
 
-## :notebook: Notebooks
+3장에서는 최근 몇 년간 머신러닝 분야의 연구 결과를 알아보고 ***합성곱 신경망(convolutional neural network, CNN)***을 소개한다. 다음 노트북에서 CNN의 구성 요소를 만드는 연산을 보여주고, 전통적인 신경망을 테스트해본 다음 더 견고한 모델을 훈련시키기 위한 최신 도구들을 실험해보겠다. 
 
-(Reminder: Notebooks are better visualized with `nbviewer`: click [here](https://nbviewer.jupyter.org/github/PacktPublishing/Hands-On-Computer-Vision-with-Tensorflow/blob/master/ch3) to continue on `nbviewer.jupyter.org`.)
+## :notebook: 노트북
 
-- 3.1 - [Discovering CNNs' Basic Operations](./ch3_nb1_discover_cnns_basic_ops.ipynb)
-    - Learn to use *convolutional*, *average-pooling*, and *max-pooling* layers with TensorFlow 2.
-- 3.2 - [Building and Training our First CNN with TensorFlow 2 and Keras](./ch3_nb2_build_and_train_first_cnn_with_tf2.ipynb)
-    - Implement a *LeNet-5* model and test it on hand-written digit recognition.
-- 3.3 - [Experimenting with Advanced Optimizers](./ch3_nb3_experiment_with_optimizers.ipynb)
-    - Use and compare some of the *optimizers* offered by TensorFlow 2, to improve the training of new models.
-- 3.4 - [Applying Regularization Methods to CNNs](./ch3_nb4_apply_regularization_methods_to_cnns.ipynb)
-    - Avoid *over-fitting* and train more robust neural networks by applying *regularizers*, *dropout*, *batch normalization*, etc.
+(팁: 노트북을 시각화할 때 `nbviewer`를 사용하는 것이 좋다: `nbviewer.jupyter.org`에서 계속하려면 [여기](https://nbviewer.jupyter.org/github/PacktPublishing/Hands-On-Computer-Vision-with-Tensorflow/blob/master/ch3)를 클릭하라.) 
+
+- 3.1 - [CNN 기초 연산 살펴보기](./ch3_nb1_discover_cnns_basic_ops.ipynb)
+    - 텐서플로 2로 *합성곱*, *평균 풀링*, *최대 풀링* 계층을 사용하는 방법을 배운다. 
+- 3.2 - [텐서플로 2와 케라스로 첫 CNN을 만들고 훈련시키기](./ch3_nb2_build_and_train_first_cnn_with_tf2.ipynb)
+    - *LeNet-5* 모델을 구현하고 손으로 쓴 숫자 인식에 이 모델을 테스트한다.
+- 3.3 - [고급 최적화 모델 실험](./ch3_nb3_experiment_with_optimizers.ipynb)
+    - 새 모델 훈련을 개선하기 위해 텐서플로가 제공하는 *최적화 알고리즘*을 사용하고 비교한다.
+- 3.4 - [CNN에 정규화 기법 적용](./ch3_nb4_apply_regularization_methods_to_cnns.ipynb)
+    - *정규화 모델*, *드롭아웃*, *배치 정규화* 등을 적용해 *과적합*을 피하고, 보다 견고한 신경망을 훈련시킨다.
